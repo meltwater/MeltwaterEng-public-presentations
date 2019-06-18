@@ -23,5 +23,5 @@ Please open a Pull Request to add a public presentation.
 * 2018-11-09 Elixir Meetup Berlin: Elixir Deployment at Meltwater [(slides)](files/2018-11-09-Elixir-Deployment-at-Meltwater.pdf)
 * 2018-11-09 Elixir Meetup Berlin: gen_rmq - Simpler RabbitMQ Consumers and Publishers in Elixir [(slides)](files/2018-11-09-gen_rmq-Simpler-RabbitMQ-consumers-and-publishers-in-Elixir.pdf)
 * 2018-11-09 Elixir Meetup Berlin: Dependency Tracking with dependabot [(slides)](files/2018-11-09-Dependency-Tracking-with-Dependabot.pdf)
-* 2018-02-24 Lonestar ElixirConf: User Centered API Versioning [(slides)](files/2018-02-24-Lonstar-UserCenteredAPIVersioning.pdf)
+* 2018-02-24 Lonestar ElixirConf: User Centered API Versioning [(slides)](files/2018-02-24-Lonstar-UserCenteredAPIVersioning.pdf) [(video)](https://www.youtube.com/watch?v=puUr9_zzTm4)
 * 2018-01-11 Elixir Meetup Berlin: (Dress Rehearsal) User Centered API Versioning [(slides)](files/2018-01-11-user-centered-API-versioning.pdf)
