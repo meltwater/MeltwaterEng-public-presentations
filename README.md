@@ -4,12 +4,13 @@ This is a compiled list of public talks by Meltwater Engineering: meetup present
 
 We try to keep the list up-to-date.
 
-Please open a Pull Request to add a public presentation.
+Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2019
 
-* 2019-09-27 Multi-tentant user management with Helm [CloudNativeGbg #4 - Automation in Cloud Native Environments](https://www.meetup.com/meetup-group-xgLRCqVz/events/263773329/)
-* 2019-09-27 An introduction and demo of Kustomize [CloudNativeGbg #4 - Automation in Cloud Native Environments](https://www.meetup.com/meetup-group-xgLRCqVz/events/263773329/)
+* 2019-09-05 MeetUp Kubernetes Göteborg: Kubernetes Web UIs [(slides)](files/KubernetesWebUIs.pdf)
+* 2019-08-27 MeetUp CloudNativeGbg: Multi-tentant user management with Helm [CloudNativeGbg #4 - Automation in Cloud Native Environments](https://www.meetup.com/meetup-group-xgLRCqVz/events/263773329/)
+* 2019-08-27 MeetUp CloudNativeGbg: An introduction and demo of Kustomize [CloudNativeGbg #4 - Automation in Cloud Native Environments](https://www.meetup.com/meetup-group-xgLRCqVz/events/263773329/)
 * 2019-06-11 Kubernetes and CNCF Finland Meetup: Getting Developers to Adopt Your Service [(slides)](files/2019-06-11-getting-developers-to-adopt-your-service.pdf)
 * 2019-05-19 Cloud Native Rejekts Barcelona: Getting Developers to Adopt Your Service [(slides)](files/2019-05-19-getting-developers-to-adopt-your-service.pdf)
 * 2019-05-19 Cloud Native Rejekts Barcelona: Knowing what your Kubernetes cluster is doing [(slides)](files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf)
