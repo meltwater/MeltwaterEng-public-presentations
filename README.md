@@ -8,6 +8,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2019
 
+* 2019-11-05 Presentation at the Budapest University of Technology and Economics  [(slides)](files/2019-11-05-Docker-Beyond-the-Classroom-Public.pdf)
 * 2019-10-17 DevOpsDays Edinburgh: From Developers and Operations to DevOps and Autnomous teams [(slides)](files/2019-10-17-from-devs-and-ops-to-devops.pdf)
 * 2019-09-05 MeetUp Kubernetes Göteborg: Kubernetes Web UIs [(slides)](files/KubernetesWebUIs.pdf)
 * 2019-08-27 MeetUp CloudNativeGbg: Multi-tentant user management with Helm [CloudNativeGbg #4 - Automation in Cloud Native Environments](https://www.meetup.com/meetup-group-xgLRCqVz/events/263773329/)
