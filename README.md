@@ -22,6 +22,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2019-05-09 MeetUp Kubernetes Göteborg: (Dress Rehearsal) Zero downtime upgrades of Kubernetes [(slides)](files/2019-05-09-zero-downtime-kubernetes-cluster-upgrades.pdf) [(video)](https://youtu.be/EpIgwYQlp4c?t=3939)
 * 2019-04-11 MeetUp CloudNativeGbg: Running k8s with kops on AWS [(slides)](files/2019-04-11-lessons-learned-running-k8s-with-kops-on-aws.pdf) [(video)](https://www.youtube.com/watch?v=kHCm0zrn3yw)
 * 2019-04-11 MeetUp CloudNativeGbg: Managing users in multi-tenant Kubernetes Cluster [(slides)](files/2019-04-11-managing-users-in-multi-tenant-kubernetes-cluster.pdf) [(video)](https://youtu.be/kHCm0zrn3yw?t=1788)
+* 2019-02-21 MeetUp Javaforum Göteborg (JUG GBG): Co(ol)routines - kotlin at speed [(slides)](files/2019-02-21-Kotlin-coolroutines.pdf) [(video)](https://www.youtube.com/watch?v=mWsQRXtzXK0)
 
 ## 2018
 
@@ -30,6 +31,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2018-11-09 Elixir Meetup Berlin: gen_rmq - Simpler RabbitMQ Consumers and Publishers in Elixir [(slides)](files/2018-11-09-gen_rmq-Simpler-RabbitMQ-consumers-and-publishers-in-Elixir.pdf)
 * 2018-11-09 Elixir Meetup Berlin: Dependency Tracking with dependabot [(slides)](files/2018-11-09-Dependency-Tracking-with-Dependabot.pdf)
 * 2018-10-10 DevOps Budapest Meetup: To a billion messages and beyond — A story about the evolution of Meltwater’s log ingestion pipeline [(slides)](files/2018-10-10-To-a-billion-messages-and-beyond.pdf) [(video)](https://www.youtube.com/watch?v=BpjjOg_H_0U)
+* 2018-06-12 Java Barcelona Conference: Begin Event Sourcing with Lagom [(slides)](files/2018-06-12-Event-Sourcing-with-Lagom.pdf)
 * 2018-02-24 Lonestar ElixirConf: User Centered API Versioning [(slides)](files/2018-02-24-Lonstar-UserCenteredAPIVersioning.pdf) [(video)](https://www.youtube.com/watch?v=puUr9_zzTm4)
 * 2018-01-11 Elixir Meetup Berlin: (Dress Rehearsal) User Centered API Versioning [(slides)](files/2018-01-11-user-centered-API-versioning.pdf)
 
