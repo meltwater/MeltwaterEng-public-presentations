@@ -30,6 +30,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2018-11-09 Elixir Meetup Berlin: gen_rmq - Simpler RabbitMQ Consumers and Publishers in Elixir [(slides)](files/2018-11-09-gen_rmq-Simpler-RabbitMQ-consumers-and-publishers-in-Elixir.pdf)
 * 2018-11-09 Elixir Meetup Berlin: Dependency Tracking with dependabot [(slides)](files/2018-11-09-Dependency-Tracking-with-Dependabot.pdf)
 * 2018-10-10 DevOps Budapest Meetup: To a billion messages and beyond — A story about the evolution of Meltwater’s log ingestion pipeline [(slides)](files/2018-10-10-To-a-billion-messages-and-beyond.pdf) [(video)](https://www.youtube.com/watch?v=BpjjOg_H_0U)
+* 2018-04-10 Gothenburg Artifical Intelligence Alliance (GAIA) Conference: Predicting Response Time in a Large-scale Information Retrieval System [(video)](https://www.youtube.com/watch?v=aq1uYRUPVKg&t=2s)
 * 2018-02-24 Lonestar ElixirConf: User Centered API Versioning [(slides)](files/2018-02-24-Lonstar-UserCenteredAPIVersioning.pdf) [(video)](https://www.youtube.com/watch?v=puUr9_zzTm4)
 * 2018-01-11 Elixir Meetup Berlin: (Dress Rehearsal) User Centered API Versioning [(slides)](files/2018-01-11-user-centered-API-versioning.pdf)
 
