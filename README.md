@@ -31,6 +31,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2018-11-09 Elixir Meetup Berlin: gen_rmq - Simpler RabbitMQ Consumers and Publishers in Elixir [(slides)](files/2018-11-09-gen_rmq-Simpler-RabbitMQ-consumers-and-publishers-in-Elixir.pdf)
 * 2018-11-09 Elixir Meetup Berlin: Dependency Tracking with dependabot [(slides)](files/2018-11-09-Dependency-Tracking-with-Dependabot.pdf)
 * 2018-10-10 DevOps Budapest Meetup: To a billion messages and beyond — A story about the evolution of Meltwater’s log ingestion pipeline [(slides)](files/2018-10-10-To-a-billion-messages-and-beyond.pdf) [(video)](https://www.youtube.com/watch?v=BpjjOg_H_0U)
+* 2018-08-28 Gothenburg Artifical Intelligence Alliance (GAIA) Meetup: Optimizing neural networks using genetic algorithms [(slides)](files/2018-08-28-optimizing-neural-networks-using-genetic-algorithms.pdf) [(video)](https://youtu.be/R3Er9eoXrus?t=396)
 * 2018-06-12 Java Barcelona Conference: Begin Event Sourcing with Lagom [(slides)](files/2018-06-12-Event-Sourcing-with-Lagom.pdf)
 * 2018-04-10 Gothenburg Artifical Intelligence Alliance (GAIA) Conference: Predicting Response Time in a Large-scale Information Retrieval System [(slides)](files/2018-04-10-predicting-resource-consumption-in-a-large-scale-information-retrieval-system.pdf) [(video)](https://www.youtube.com/watch?v=aq1uYRUPVKg&t=2s)
 * 2018-02-24 Lonestar ElixirConf: User Centered API Versioning [(slides)](files/2018-02-24-Lonstar-UserCenteredAPIVersioning.pdf) [(video)](https://www.youtube.com/watch?v=puUr9_zzTm4)
