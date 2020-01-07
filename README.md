@@ -8,7 +8,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2019
 
-* 2019-12-05 [dotJS](https://www.youtube.com/watch?v=onE37GZrQaI&feature=emb_title) | Andy Desmarais | Testing native js web components
+* 2019-12-05 [dotJS](https://www.dotjs.io/) | Andy Desmarais | Testing native js web components [(slides)](https://docs.google.com/presentation/d/18UXzbRcTSftCmZSe-R98hnIRszs1ci2OwbT7D8ZJufc/edit#slide=id.g793a05636e_0_90) [(video)](https://www.youtube.com/watch?v=onE37GZrQaI&feature=emb_title)
 * 2019-12-05 [rub_b usergroup Berlin](https://www.rug-b.de/events/december-meetup-2019-575) | Sebastian Spier | Repo-Rot is Real!
 * 2019-12-04 MeetUp Kubernetes Göteborg: Local Kubernetes with kind [(slides)](files/2019-12-04-local-kubernetes-with-kind.pdf)
 * 2019-11-28 DevOpsDays Berlin: From Developers and Operations to DevOps and Autnomous teams [(slides)](files/2019-11-28-From-Developers-And-Operations-to-DevOps-DevOpsDays-Berlin.pdf)
