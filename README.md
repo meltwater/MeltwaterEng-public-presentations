@@ -6,6 +6,9 @@ We try to keep the list up-to-date.
 
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
+## 2020
+* 2012-01-21 MeetUp Göteborg, Distributed: Data-driven Elasticsearch Load Management [(slides)](files/GbgDistributed_Shardonnay+ResourcePrediction.pdf)
+
 ## 2019
 
 * 2019-12-05 [dotJS](https://www.dotjs.io/) | Andy Desmarais | Testing native js web components [(slides)](https://docs.google.com/presentation/d/18UXzbRcTSftCmZSe-R98hnIRszs1ci2OwbT7D8ZJufc/edit#slide=id.g793a05636e_0_90) [(video)](https://www.youtube.com/watch?v=onE37GZrQaI&feature=emb_title)
