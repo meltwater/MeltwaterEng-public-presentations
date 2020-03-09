@@ -7,6 +7,7 @@ We try to keep the list up-to-date.
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2020
+* 2012-03-06 Brewing Agile, Göteborg: From Kanban to ShapeUp...ish [(slides)](files/From_Kanban_to_ShapeUp-ish.pdf)
 * 2012-01-21 MeetUp Göteborg, Distributed: Data-driven Elasticsearch Load Management [(slides)](files/GbgDistributed_Shardonnay+ResourcePrediction.pdf)
 
 ## 2019
