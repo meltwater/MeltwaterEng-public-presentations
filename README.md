@@ -7,7 +7,7 @@ We try to keep the list up-to-date.
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2020
-* 2020-07-21 Kubernetes/Cloud-Native Online Meetup: Automate your infrastructure with GitOps, Terraform and Drone [(slides)](files/2020-07-21-GitOps-Terraform-and-Drone.pdf)
+* 2020-07-21 Kubernetes/Cloud-Native Online Meetup: Automate your infrastructure with GitOps, Terraform and Drone [(slides)](files/2020-07-21-GitOps-Terraform-and-Drone.pdf) [(video)](https://www.youtube.com/watch?v=oK0KHT6pcN8)
 * 2020-04-09 Cloud Native Nordics Tech Talks, Online: Scalability testing of a productions Kubernetes cluster [(slides)](files/2020-04-09-Scalability-testing-of-a-production-kubernetes-cluster.pdf) [(video)](https://www.youtube.com/watch?v=JHMBMfs2ngg&feature=emb_title)
 * 2020-03-06 Brewing Agile, Göteborg: From Kanban to ShapeUp...ish [(slides)](files/From_Kanban_to_ShapeUp-ish.pdf)
 * 2020-03-06 Brewing Agile, Göteborg: Bringing People and Knowledge Together with Unconference [(slides)](files/2020-03-05-bringing-people-and-knowledge-together-with-unconference.pdf)
