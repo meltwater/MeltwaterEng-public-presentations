@@ -7,7 +7,9 @@ We try to keep the list up-to-date.
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2020
+
 * 2020-07-21 Kubernetes/Cloud-Native Online Meetup: Automate your infrastructure with GitOps, Terraform and Drone [(slides)](files/2020-07-21-GitOps-Terraform-and-Drone.pdf) [(video)](https://www.youtube.com/watch?v=oK0KHT6pcN8)
+* 2020-06-12 NDC Oslo: DevOps in Real Life - A How To [(video)](https://www.youtube.com/watch?v=2XRaW9ATTCI) [(slides)](https://speakerdeck.com/olbpetersson/ndc-oslo-devops-in-real-life-a-how-to)
 * 2020-04-09 Cloud Native Nordics Tech Talks, Online: Scalability testing of a productions Kubernetes cluster [(slides)](files/2020-04-09-Scalability-testing-of-a-production-kubernetes-cluster.pdf) [(video)](https://www.youtube.com/watch?v=JHMBMfs2ngg&feature=emb_title)
 * 2020-03-06 Brewing Agile, Göteborg: From Kanban to ShapeUp...ish [(slides)](files/From_Kanban_to_ShapeUp-ish.pdf)
 * 2020-03-06 Brewing Agile, Göteborg: Bringing People and Knowledge Together with Unconference [(slides)](files/2020-03-05-bringing-people-and-knowledge-together-with-unconference.pdf)
@@ -19,7 +21,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2019-12-05 [rub_b usergroup Berlin](https://www.rug-b.de/events/december-meetup-2019-575) | Sebastian Spier | Repo-Rot is Real!
 * 2019-12-04 MeetUp Kubernetes Göteborg: Local Kubernetes with kind [(slides)](files/2019-12-04-local-kubernetes-with-kind.pdf)
 * 2019-11-28 DevOpsDays Berlin: From Developers and Operations to DevOps and Autnomous teams [(slides)](files/2019-11-28-From-Developers-And-Operations-to-DevOps-DevOpsDays-Berlin.pdf)
-* 2019-11-18 Presentation at CNCF End User Summit, KubeCon, San Diego: Scalability Testing of a Pproduction Kubernetes Cluster [(slides)](files/2019-11-18-Scalability-Testing-Of-A-Pproduction-Kubernetes-Cluster.pdf)
+* 2019-11-18 Presentation at CNCF End User Summit, KubeCon, San Diego: Scalability Testing of a Production Kubernetes Cluster [(slides)](files/2019-11-18-Scalability-Testing-Of-A-Pproduction-Kubernetes-Cluster.pdf)
 * 2019-11-05 Presentation at the Budapest University of Technology and Economics: Docker Beyond the Classroom [(slides)](files/2019-11-05-Docker-Beyond-the-Classroom-Public.pdf)
 * 2019-10-17 DevOpsDays Edinburgh: From Developers and Operations to DevOps and Autnomous teams [(slides)](files/2019-10-17-from-devs-and-ops-to-devops.pdf) [(video)](https://www.youtube.com/watch?v=CAxj5AzaJAg)
 * 2019-09-05 MeetUp Kubernetes Göteborg: Kubernetes Web UIs [(slides)](files/KubernetesWebUIs.pdf)
