@@ -8,6 +8,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2020
 
+* 2020-10-01 [Software Circus - Amsterdam](https://www.meetup.com/Software-Circus/events/273448933/): Monitoring Kubernetes Endpoints with the Prometheus Blackbox Exporter [(slides)](files/2020-10-01-monitoring-kubernetes-endpoints.pdf)
 * 2020-09-15 [InnerSource Commons Summit](https://innersourcecommons.org/events/isc-fall-2020-agenda/) | 1 year in the InnerSource Commons community: Getting your money's worth. (Sebastian Spier) [(video)](https://youtu.be/2OcnUC-frfg)
 * 2020-07-21 Kubernetes/Cloud-Native Online Meetup: Automate your infrastructure with GitOps, Terraform and Drone [(slides)](files/2020-07-21-GitOps-Terraform-and-Drone.pdf) [(video)](https://www.youtube.com/watch?v=oK0KHT6pcN8)
 * 2020-06-12 NDC Oslo: DevOps in Real Life - A How To [(video)](https://www.youtube.com/watch?v=2XRaW9ATTCI) [(slides)](https://speakerdeck.com/olbpetersson/ndc-oslo-devops-in-real-life-a-how-to)
