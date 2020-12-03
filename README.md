@@ -8,6 +8,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2020
 
+* 2020-12-03 Meetup CloudNativeGbg - vCloudNativeGbg #16 - Security and the Cutting Edge [(sildes on Cutting Edge - Exploring Kubernetes Enhancements)](2020-12-03-exploring-k8s-enhancements.pdf)
 * 2020-10-21 [Unscripted](https://www.unscriptedconf.io/): How We Fired Our Butlers: Drone CI at Scale [(slides)](files/2020-10-21-drone-ci-at-scale.pdf) [(video)](https://www.youtube.com/watch?v=k-b79UtZX-s)
 * 2020-10-01 [Software Circus - Amsterdam](https://www.meetup.com/Software-Circus/events/273448933/): Monitoring Kubernetes Endpoints with the Prometheus Blackbox Exporter [(slides)](files/2020-10-01-monitoring-kubernetes-endpoints.pdf) [(video)](https://www.youtube.com/watch?v=2TpQ3ETmhsw)
 * 2020-09-15 [InnerSource Commons Summit](https://innersourcecommons.org/events/isc-fall-2020-agenda/) | 1 year in the InnerSource Commons community: Getting your money's worth. (Sebastian Spier) [(video)](https://youtu.be/2OcnUC-frfg)
