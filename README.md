@@ -9,9 +9,10 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 ## 2020
 
 * 2020-12-03 Meetup CloudNativeGbg - vCloudNativeGbg #16 - Security and the Cutting Edge [(sildes on Cutting Edge - Exploring Kubernetes Enhancements)](files/2020-12-03-exploring-k8s-enhancements.pdf)
+* 2020-12-02 [InnerSource Commons APAC Summit](https://eventyay.com/e/3dbaaa50) | Level Up your InnerSource through Patterns (Sebastian Spier) [(slides)](https://www.slideshare.net/sebastianspier/isc-summit-apac-2020-fei-wan-sebastian-spier-level-up-your-innersource-through-patterns) [(video)](https://youtu.be/vSCR13LF6Ww)
 * 2020-10-21 [Unscripted](https://www.unscriptedconf.io/): How We Fired Our Butlers: Drone CI at Scale [(slides)](files/2020-10-21-drone-ci-at-scale.pdf) [(video)](https://www.youtube.com/watch?v=k-b79UtZX-s)
 * 2020-10-01 [Software Circus - Amsterdam](https://www.meetup.com/Software-Circus/events/273448933/): Monitoring Kubernetes Endpoints with the Prometheus Blackbox Exporter [(slides)](files/2020-10-01-monitoring-kubernetes-endpoints.pdf) [(video)](https://www.youtube.com/watch?v=2TpQ3ETmhsw)
-* 2020-09-15 [InnerSource Commons Summit](https://innersourcecommons.org/events/isc-fall-2020-agenda/) | 1 year in the InnerSource Commons community: Getting your money's worth. (Sebastian Spier) [(video)](https://youtu.be/2OcnUC-frfg)
+* 2020-09-15 [InnerSource Commons Fall Summit](https://innersourcecommons.org/events/isc-fall-2020-agenda/) | 1 year in the InnerSource Commons community: Getting your money's worth. (Sebastian Spier) [(video)](https://youtu.be/2OcnUC-frfg)
 * 2020-07-21 Kubernetes/Cloud-Native Online Meetup: Automate your infrastructure with GitOps, Terraform and Drone [(slides)](files/2020-07-21-GitOps-Terraform-and-Drone.pdf) [(video)](https://www.youtube.com/watch?v=oK0KHT6pcN8)
 * 2020-06-12 NDC Oslo: DevOps in Real Life - A How To [(video)](https://www.youtube.com/watch?v=2XRaW9ATTCI) [(slides)](https://speakerdeck.com/olbpetersson/ndc-oslo-devops-in-real-life-a-how-to)
 * 2020-04-09 Cloud Native Nordics Tech Talks, Online: Scalability testing of a productions Kubernetes cluster [(slides)](files/2020-04-09-Scalability-testing-of-a-production-kubernetes-cluster.pdf) [(video)](https://www.youtube.com/watch?v=JHMBMfs2ngg&feature=emb_title)
