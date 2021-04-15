@@ -6,6 +6,11 @@ We try to keep the list up-to-date.
 
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
+## 2021
+
+* 2021-04-15 Budapest ML Forum, [NLP SIG](https://budapestml.hu/2021/hu/nyilt-este/#nlp) | The NLP Stack at Meltwater. [(slides)](https://docs.google.com/presentation/d/1MybxzapFcUQ_VyrpdkbsmNpHTSroKP7qq1PKeupN0LU/edit?usp=sharing) 
+* 2021-04-08 Budapest University of Technology and Economics - [HLT Seminar](https://hlt.bme.hu/en/seminar) | Record Linking for Meltwater's Knowledge Graph. [(slides)](https://nessie.ilab.sztaki.hu/~kornai/MILAB/mihaltz.pdf) [(video)](https://nessie.ilab.sztaki.hu/~kornai/MILAB/milab210408.mp4)
+
 ## 2020
 
 * 2020-12-03 Meetup CloudNativeGbg - vCloudNativeGbg #16 - Security and the Cutting Edge [(sildes on Cutting Edge - Exploring Kubernetes Enhancements)](files/2020-12-03-exploring-k8s-enhancements.pdf)
