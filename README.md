@@ -54,6 +54,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2018-11-09 Elixir Meetup Berlin: Elixir Deployment at Meltwater [(slides)](files/2018-11-09-Elixir-Deployment-at-Meltwater.pdf)
 * 2018-11-09 Elixir Meetup Berlin: gen_rmq - Simpler RabbitMQ Consumers and Publishers in Elixir [(slides)](files/2018-11-09-gen_rmq-Simpler-RabbitMQ-consumers-and-publishers-in-Elixir.pdf)
 * 2018-11-09 Elixir Meetup Berlin: Dependency Tracking with dependabot [(slides)](files/2018-11-09-Dependency-Tracking-with-Dependabot.pdf)
+* 2018-11-08 Data Council AI: Building a Knowledge Graph Platform from Billions of Unstructured Online Sources Using AI-Meltwater [(slides)](https://www.datacouncil.ai/talks/building-a-knowledge-graph-platform-from-billions-of-unstructured-online-sources-using-ai) [(video)](https://www.youtube.com/watch?v=vf0t2R0FZ5M)
 * 2018-10-10 DevOps Budapest Meetup: To a billion messages and beyond — A story about the evolution of Meltwater’s log ingestion pipeline [(slides)](files/2018-10-10-To-a-billion-messages-and-beyond.pdf) [(video)](https://www.youtube.com/watch?v=BpjjOg_H_0U)
 * 2018-08-28 Gothenburg Artifical Intelligence Alliance (GAIA) Meetup: Optimizing neural networks using genetic algorithms [(slides)](files/2018-08-28-optimizing-neural-networks-using-genetic-algorithms.pdf) [(video)](https://youtu.be/R3Er9eoXrus?t=396)
 * 2018-06-12 Java Barcelona Conference: Begin Event Sourcing with Lagom [(slides)](files/2018-06-12-Event-Sourcing-with-Lagom.pdf)
@@ -62,4 +63,6 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 * 2018-01-11 Elixir Meetup Berlin: (Dress Rehearsal) User Centered API Versioning [(slides)](files/2018-01-11-user-centered-API-versioning.pdf)
 
 ## 2017
+
+* 2017-11-16 Open Data Science Conference, AI platform to mine competitive intelligence from billions of unstructured online sources [(video)](https://www.youtube.com/watch?v=Mwv6dSTYvN4) [(slides)](https://docs.google.com/presentation/d/1p41kW8z42lUTrl9EbBc4rpQU-CADWwgUkiO1aNPmD-g/edit?usp=sharing)
 * 2017-06-30 Alan Turing Institute: Outside Insight, The Meltwater Data Science Platform [(slides)](files/2017-06-30-ATI-Outside-Insight-Data-Science.pdf)
