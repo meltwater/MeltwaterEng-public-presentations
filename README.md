@@ -8,6 +8,7 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2021
 
+* 2021-11-09 [Platform Engineers (ATX) Online Meetup](https://www.meetup.com/platform-engineers-atx-online) | Terraform, GitOps, and Kubernetes [(slides)](files/2021-11-09-Terraform-GitOps-and-Kubernetes.pdf)
 * 2021-10-28 [Agile GTA](https://www.meetup.com/Agile-GTA/) | So you want to become a software engineer? (Ebenezer Isaac) [(slides)](files/2021-10-28-How-to-become-an-Engineer_Agile-Meetup.pdf) [(video)](https://www.youtube.com/watch?v=MB6hhM-puEo)
 * 2021-10-05 [ISC Community Call](https://www.eventbrite.com/e/innersource-community-call-innersource-patterns-tickets-175369804807) | InnerSource Patterns (Sebastian Spier) [(slides)](https://de.slideshare.net/sebastianspier/isc-community-call-102021-innersource-patterns-gil-yehuda-fei-wan-sebastian-spier) [(video)](https://youtu.be/nfdYQQrAK18)
 * 2021-06-16 [{unscripted} 2021 Conference](https://www.unscriptedconf.io/), Virtual: Scaling to Meet Today's Software Delivery Workloads [(slides)](files/2021-06-16-Scaling-to-Meet-Todays-Software-Delivery-Workloads.pdf) [(video)](https://youtu.be/HOMoDEOpRvQ)
