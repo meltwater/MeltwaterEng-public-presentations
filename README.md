@@ -6,6 +6,10 @@ We try to keep the list up-to-date.
 
 Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
+## 2022
+
+* 2022-05-10 [Meetup Plaform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/events/285235244/) | How Meltwater migrated from the Amazon VPC CNI plugin to Cilium in K8s (Federico Hernandez, Simone Sciarrati) [(slides)](files/2022-05-10-MeetupPlatformEngineers-Cilium.pdf)
+
 ## 2021
 
 * 2021-11-26 [Build your next app with web components!](https://www.conf42.com/JavaScript_2021_Andrew_Desmarais_app_web_components) | Conf 42 - Javascript [(video)](https://www.youtube.com/watch?v=JwnJt9XZl8s)
