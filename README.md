@@ -8,6 +8,8 @@ Meltwater Engineers: Please open a Pull Request to add a public presentation.
 
 ## 2022
 
+* 2022-06-10 [Swapping the wheels of a running car - migrate from Amazon VPC CNI to Cilium in Kubernetes](https://platformcon.com/talk/swapping-the-wheels-of-a-running-car-migrate-from-amazon-vpc-cni-to-cilium-in-kubernetes) | PlatformCon - Federico Hernandez
+* 2022-06-09 [From 0 to Platform - Meltwater’s 6 years journey](https://platformcon.com/talk/from-0-to-platform-meltwaters-6-years-journey)  | PlatformCon - Simone Sciarrati
 * 2022-05-10 [Meetup Plaform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/events/285235244/) | How Meltwater migrated from the Amazon VPC CNI plugin to Cilium in K8s (Federico Hernandez, Simone Sciarrati) [(slides)](files/2022-05-10-MeetupPlatformEngineers-Cilium.pdf)
 
 ## 2021
